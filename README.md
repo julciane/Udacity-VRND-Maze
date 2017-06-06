@@ -1,11 +1,12 @@
 # Udacity-VRND-Maze  
-This project is a fully interactive VR experience in the form of a maze.  
+This project is a fully interactive VR experience in the form of a maze. 
+![The Maze](https://github.com/julciane/Udacity-VRND-Maze/blob/master/Screenshots/MazeView.png)
 ## What I've learned in this project:  
 * Waypoint Navigation so user can move through the maze.  
 * Creating collectable key and coins which play a sound and spawn some particles when you click on.  
-* Adding some AI to game, so the gate opens if user has collected the key.  
+* Adding some AI to game, so the gate opens only if user has already collected the key.  
 * Creating and accessing prefab via script.  
-* Adding Ui to congratulate user when he/she finished the game.  
+* Adding UI to congratulate user when he/she finishes the game.  
 * Scene management so user can replay the game or just exit.  
 
 ## How to run
