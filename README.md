@@ -15,7 +15,7 @@ Open the project in Unity.
 Import the Google VR SDK package.  
 Set "VR Mode Enabled" to true in GvrViewerMain.  
 Build and run tihs app.  
-Or you can also install /Build/VRWorld.apk into your phone.  
+Or you can also install /Build/MazeRunner.apk into your phone.  
 
 It was tested on Unity 5.5.1f1 using Google VR SDK 1.0.3
 
